@@ -1,0 +1,27 @@
+{
+    "name": "somyapi",
+    "description": "socket.io - mysql entity manager and API",
+    "version": "0.1.0",
+    "author": {
+        "name": "guillaume derouineau",
+        "email": "admin@caradoc.fr"
+    },
+    "dependencies": {
+        "mysql":"~2.0.*",
+        "socket.io":"~0.9.*"
+    },
+    "keywords": [
+        "socket.io",
+        "mysql",
+        "api"
+    ],
+    "main": "index",
+    "readmeFilename": "README.md",
+    "_id": "somyapi@0.1.0",
+    "_from": "somyapi@",
+    "homepage": "http://github.com/gderouineau/somyapi",
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/gderouineau/somyapi.git"
+    }
+}
